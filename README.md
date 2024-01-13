@@ -1,4 +1,4 @@
-# Estimate CO2 from Cars
+# Estimate CO2 emissions from Cars
 
 
 This code comes from a Kaggle challenge aiming to predict carbon dioxide (CO2) emissions from vehicles using a dataset that includes detailed information on various aspects of the vehicles.
