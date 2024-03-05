@@ -11,8 +11,8 @@ To ensure an isolated development environment, we recommend using a virtual envi
 
 1. Clone the github repository
 ```bash
-git clone https://github.com/AxelFritz2/Challenge_Kaggle_Mosef.git
-cd Challenge_Kaggle_Mosef
+git clone https://github.com/AxelFritz2/estimate-CO2-consumption.git
+cd estimate-CO2-consumption
 ```
 2. Create a virtual environment
 ```bash
